@@ -16,7 +16,7 @@ For now, modify in the script the variable `management_center` with the informat
 i.e.
 ```python
 management_center = {
-    “ip_address”: “10.48.26.181”,
+    “ip_address”: “192.168.1.200”,
     “username”: “admin”,
     “password”: “Admin123”,
     “domain”: “Global”
@@ -63,3 +63,7 @@ In the next stage, we will see:
 Cesar Barrientos (i-am-csr@outlook.com)
 
 ## License
+
+GNU General Public License v3.0 or later.
+
+See [LICENSE](https://github.com/i-am-csr/fmc_policy_viewer/blob/main/LICENSE) for the full text.
