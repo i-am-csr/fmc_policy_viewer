@@ -1,6 +1,7 @@
 ![python3](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![status](https://img.shields.io/badge/status-beta-blue.svg)
 ![license](https://img.shields.io/badge/license-GPL%20v3.0-brightgreen.svg)
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/i-am-csr/fmc_policy_viewer)
 
 # FMC Policy Viewer
 A script to collect the rules within an Access Control Policy, it will return a CSV file with the information about the rules also expanding all the objects within that rule.
